@@ -1,6 +1,5 @@
 <html>
 <body>
-  <title>MyNguyen</title>
   <style>
   div.a{
   text-align: center;
